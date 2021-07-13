@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+body {
+    background: rgba(25, 25, 25, 0.438);
+}
+
+main img{
+    width: 40%;
+    margin-top: 0.313rem;
+    margin-right: 25rem;
+    margin-left: 25rem;
+}
+
+
+main p {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 1.4rem;
+}
+
+footer p {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
